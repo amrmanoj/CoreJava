@@ -6,7 +6,7 @@ public class CountOfPrimeNumbers
         Scanner scanner=new Scanner(System.in);
         System.out.println("Lower Number");
         int x= Integer.parseInt(scanner.nextLine());
-        System.out.println("Upper Number");
+        System.out.println("Enter Upper Number");
         int y= Integer.parseInt(scanner.nextLine());
         int count=0;
         for(long j=x; j<=y;j++)
