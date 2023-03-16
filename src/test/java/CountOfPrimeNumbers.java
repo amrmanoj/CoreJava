@@ -4,7 +4,7 @@ public class CountOfPrimeNumbers
 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        System.out.println("Lower Number");
+        System.out.println("Enter Lower Number");
         int x= Integer.parseInt(scanner.nextLine());
         System.out.println("Enter Upper Number");
         int y= Integer.parseInt(scanner.nextLine());
